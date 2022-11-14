@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on gamedev
 - 📫 How to reach me maciej.markuszewski1998@gmail.com
 - Theorycrafting excels:
+
 https://docs.google.com/spreadsheets/d/1ae8hYL6V6MqybatK1kqFOg-Oo0LSZ09sdyD7ThnB0aw/edit?usp=sharing
 https://docs.google.com/spreadsheets/d/1JBjjnomkiaQ3ymIiuhgPO-MyBg9iPtPjFPviuif5YXk/edit?usp=sharing
 https://docs.google.com/spreadsheets/d/1UhS5i3jWzuAPNjMWg5BtxwUFZTzRZr6J2k8WWiOugf4/edit?usp=sharing
